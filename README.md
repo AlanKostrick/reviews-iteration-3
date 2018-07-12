@@ -2,7 +2,7 @@
 
 ### Project Due Date: Wednesday, July 25th
 
-## Video 1: Using HTML forms, dynamically add Comments to each single review
+### Video 1: Using HTML forms, dynamically add Comments to each single review
 [Here is video 1](https://youtu.be/zHUIy6QNn4Q)
 	- ToDo: Create Comment Entity that has an author, comment and ties into a review
 	- ToDo: Create the CommentRepository
@@ -11,15 +11,15 @@
 
 	* (10 points)   ***We will discuss this section next thursday, July 19th during a hangout from 7-9pm
 
-## Video 2: Using HTML forms, dynamically add and remove Tags from each single review
-[Here is video 1](https://youtu.be/X_OAUhbqauk)
+### Video 2: Using HTML forms, dynamically add and remove Tags from each single review
+[Here is video 2](https://youtu.be/X_OAUhbqauk)
 	- ToDo: Create a TagController
 	- ToDo: Code out the HTML forms to add/remove inside of the reviewTemplate.html
 		- make sure removals take place via an x button
 	* (10 points for add, 10 points for removal)
 
 ## Video 3: Using Ajax requests, dynamically add to an all-tags page
-[Here is video 1]()https://youtu.be/KCxp74Et7T0
+[Here is video 3](https://youtu.be/KCxp74Et7T0)
 	- Using Ajax requests, dynamically remove a tag from the all-tags page causing it to be removed from every review it is associated with 
 	- Code out server-requests.js to accomplish this task
 	- Update the TagController with proper requests
