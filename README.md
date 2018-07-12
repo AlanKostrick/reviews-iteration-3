@@ -1,4 +1,4 @@
-# Task List for Reviews Iteration 3
+## Task List for Reviews Iteration 3
 
 ### Project Due Date: Wednesday, July 25th
 
@@ -18,7 +18,7 @@
 		- make sure removals take place via an x button
 	* (10 points for add, 10 points for removal)
 
-## Video 3: Using Ajax requests, dynamically add to an all-tags page
+### Video 3: Using Ajax requests, dynamically add to an all-tags page
 [Here is video 3](https://youtu.be/KCxp74Et7T0)
 	- Using Ajax requests, dynamically remove a tag from the all-tags page causing it to be removed from every review it is associated with 
 	- Code out server-requests.js to accomplish this task
@@ -26,16 +26,16 @@
 
  	* (10 points for add, 10 points for removal)
 
-## On your own: Using either HTML forms or Ajax requests, dynamically add and remove Categories
+#### On your own: Using either HTML forms or Ajax requests, dynamically add and remove Categories
   * (10 points for add, 10 points for removal)
   
-## Code Style/Cleanliness
+#### Code Style/Cleanliness
   * (10 points)
  
-## Use of TDD
+#### Use of TDD
   * (10 points)
 
-## Added minor css styling to make content/forms look a bit better
+#### Added minor css styling to make content/forms look a bit better
   * (10 points)
 
 ## Stretch Tasks
