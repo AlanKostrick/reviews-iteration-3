@@ -26,7 +26,7 @@
 
  	* (10 points for add, 10 points for removal)
 
-#### On your own: Using either HTML forms or Ajax requests, dynamically add and remove Categories
+#### On your own: Using either HTML forms or Ajax requests, dynamically allow the user to remove Comments
   * (10 points for add, 10 points for removal)
   
 #### Code Style/Cleanliness
@@ -40,3 +40,4 @@
 
 ## Stretch Tasks
 - Dynamically add more reviews to your app...how are you going to handle the images for this?? Using a generic image could be an option 
+- Do not allow a tag to be added if it has the same name as a category, give the user feedback on this entry
