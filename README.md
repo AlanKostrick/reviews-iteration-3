@@ -27,7 +27,7 @@
  	* (10 points for add, 10 points for removal)
 
 #### On your own: Using either HTML forms or Ajax requests, dynamically allow the user to remove Comments
-  * (10 points for add, 10 points for removal)
+  * (10 points for removal)
   
 #### Code Style/Cleanliness
   * (10 points)
@@ -36,7 +36,7 @@
   * (10 points)
 
 #### Added minor css styling to make content/forms look a bit better
-  * (10 points)
+  * (20 points)
 
 ## Stretch Tasks
 - Dynamically add more reviews to your app...how are you going to handle the images for this?? Using a generic image could be an option 
